@@ -1,0 +1,11 @@
+site_name: BhashaX docs
+site_url: https://example.com/
+nav:
+    - Home: index.md
+
+
+theme: 
+  name: material
+  logo: https://krishyadav007.github.io/BhashaX_docs/en/assets/images/brand/logo/BhashaX_Hor.png
+  favicon: images/favicon.png
+

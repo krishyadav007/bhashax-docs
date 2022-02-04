@@ -6,6 +6,14 @@ nav:
 
 theme: 
   name: material
-  logo: https://krishyadav007.github.io/BhashaX_docs/en/assets/images/brand/logo/BhashaX_Hor.png
+  logo: https://github.com/krishyadav007/BhashaX/raw/main/Logo/Logo.png?raw=true
   favicon: images/favicon.png
-
+  palette: 
+  - scheme: default
+    toggle:
+      icon: material/weather-sunny 
+      name: Switch to dark mode
+  - scheme: slate 
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode

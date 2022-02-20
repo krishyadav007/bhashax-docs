@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to BhashaX docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation in other languages please visit the languages sections [languages](https://www.mkdocs.org).
 
-## Commands
+## Inspiration
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Comming late
 
-## Project layout
+## Projects and challenges
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We keep conducting programming challenges that can help in further strengthing BhashaX ecosystem and be useful to the community.

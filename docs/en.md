@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome to BhashaJS English
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The below is a quick tutorial for you.
 
-## Commands
+## Variables
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Variables are like boxes, they store the values you put into them.
+The syntax for writing variables is as follows
 
-## Project layout
+`$YOUR_VARIABLE_NAME = VALUE`
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Functions
+Functions are made easier to remember and distinguish with the following syntax
+` @FUNCTION_NAME(PARAMS)`

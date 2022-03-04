@@ -1,5 +1,9 @@
 site_name: BhashaX docs
-site_url: https://example.com/
+site_url: https://bhashax.krishyadav.com/
+site_description: "The official documentation of Bhasha X"
+site_author: "Krish Yadav, Creator of BhashaX"
+copyright: "Copyright © The Calinix Project 2021"
+
 nav:
     - Home: index.md
     - Basic:

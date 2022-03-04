@@ -2,7 +2,10 @@ site_name: BhashaX docs
 site_url: https://example.com/
 nav:
     - Home: index.md
-    - English: en.md
+    - Basic:
+      - About us: /en/about.md
+    - English:
+        - Documentation: en.md
 
 
 theme: 

@@ -1,6 +1,9 @@
 # Welcome to BhashaJS English
 
-The below is a quick tutorial for you.
+The below is a quick tutorial for you in your lang
+
+## Extension
+The extension for your language is `EN`
 
 ## Variables
 
